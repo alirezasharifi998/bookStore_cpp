@@ -30,5 +30,6 @@ public:
     // Display book details
     void displayDetails() const;
 };
+ostream &operator<<(ostream &, const Book &);
 
 #endif
