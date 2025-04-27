@@ -1,4 +1,3 @@
-Collecting workspace information```markdown
 # BookStore
 
 A simple C++ project to manage and display book details.
@@ -43,4 +42,3 @@ Author: ali
 ## License
 
 This project is open-source and available under the MIT License.
-```
